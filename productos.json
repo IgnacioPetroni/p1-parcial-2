@@ -1,10 +1,74 @@
 [
     {
         "id": 1,
-        "nombre": "Producto",
-        "descripcion": "Descripción del producto",
-        "precio": 0,
-        "imagen": "images/producto-de-ejemplo.jpg",
-        "categoría": "Nombre de la categoría"
+        "nombre": "Nintendo Entertainment System (NES)",
+        "descripcion": "Consola de 8 bits lanzada en 1983, popular por juegos como Super Mario Bros. y The Legend of Zelda.",
+        "precio": 50000,
+        "imagen":"images/nintendo_entretainment_system.jpg",
+        "categoria": "Nintendo"
+    },
+    {
+        "id": 2,
+        "nombre": "Super Nintendo Entertainment System (SNES)",
+        "descripcion": "Consola de 16 bits de Nintendo, conocida por títulos como Super Mario World y Donkey Kong Country.",
+        "precio": 65000,
+        "imagen":"images/snes.jpg",
+        "categoria": "Nintendo"
+    },
+    {
+        "id": 3,
+        "nombre": "Nintendo 64",
+        "descripcion": "Primera consola de 64 bits de Nintendo, con clásicos como Mario Kart 64 y Ocarina of Time.",
+        "precio": 70000,
+        "imagen":"images/nintendo_64.jpg",
+        "categoria": "Nintendo"
+    },
+    {
+        "id": 4,
+        "nombre": "Sega Genesis (Mega Drive)",
+        "descripcion": "Consola de 16 bits de Sega, famosa por Sonic the Hedgehog y otros títulos.",
+        "precio": 55000,
+        "imagen":"images/sega_genesis.jpg",
+        "categoria": "Sega"
+    },
+    {
+        "id": 5,
+        "nombre": "Sega Saturn",
+        "descripcion": "Consola de 32 bits de Sega, conocida por Virtua Fighter y Daytona USA.",
+        "precio": 65000,
+        "imagen":"images/sega_saturn.jpg",
+        "categoria": "Sega"
+    },
+    {
+        "id": 6,
+        "nombre": "Sega Dreamcast",
+        "descripcion": "Consola de 128 bits de Sega, avanzada para su época con juegos como Shenmue y Crazy Taxi.",
+        "precio": 80000,
+        "imagen":"images/dreamcast.webp",
+        "categoria": "Sega"
+    },
+    {
+        "id": 7,
+        "nombre": "PlayStation 1",
+        "descripcion": "Primera consola de Sony, famosa por Final Fantasy VII y Metal Gear Solid.",
+        "precio": 60000,
+        "imagen":"images/playstation.jpg",
+        "categoria": "Sony"
+    },
+    {
+        "id": 8,
+        "nombre": "PlayStation 2",
+        "descripcion": "Consola de Sony y una de las más vendidas de la historia, con títulos como GTA: San Andreas y Gran Turismo 3.",
+        "precio": 70000,
+        "imagen":"images/playstation_2.jpg",
+        "categoria": "Sony"
+    },
+    {
+        "id": 9,
+        "nombre": "PlayStation Portable (PSP)",
+        "descripcion": "Consola portátil de Sony, popular por su gran colección de juegos portátiles y multimedia.",
+        "precio": 180000,
+        "imagen":"images/psp.jpg",
+        "categoria": "Sony"
     }
 ]
